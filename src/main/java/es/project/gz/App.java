@@ -16,6 +16,13 @@ public class App {
         System.out.println("THEN YOU ARE");
         System.out.println("THEN YOU ARE");
         System.out.println("Saddam");
+
+        for (int i = 1; i < 4; i++) {
+            System.out.println("UNO");
+            System.out.println("DOS");
+            System.out.println("TRES");
+            System.out.println("CATORCE");
+        }
         
     }
 }
