@@ -22,7 +22,8 @@ public class App {
             System.out.println("DOS");
             System.out.println("TRES");
             System.out.println("CATORCE");
-            System.out.println(1/0);
+            int carallo = i / 0;
+            System.out.println(carallo);
             System.out.println("O carallo 29");
         }
         
